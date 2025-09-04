@@ -24,3 +24,6 @@
 ### 联系我
 - 欢迎通过 GitHub Issues / Discussions 交流
 - 也可通过我的 GitHub Profile 邮箱联系
+
+### 社区活动
+- [知乎](https://www.zhihu.com/people/super-jd)
