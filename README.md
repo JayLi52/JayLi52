@@ -25,3 +25,6 @@
 - 欢迎通过 GitHub Issues / Discussions 交流
 - 也可通过我的 GitHub Profile 邮箱联系
 - [知乎](https://www.zhihu.com/people/super-jd)
+
+### 爱好
+- 热爱滑雪与摩托车的极客 | LOL玩家
